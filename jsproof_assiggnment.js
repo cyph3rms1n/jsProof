@@ -24,7 +24,7 @@ function mintNFT (_name,_eyeColor,_tattoo,_weapon) {
     }
 
     NFTs.push(NFT);
-    // console.log("\n Minted:"+_name);
+    console.log("\n Minted:"+_name);
 }
 
 // create a "loop" that will go through an "array" of NFT's
